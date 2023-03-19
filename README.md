@@ -4,7 +4,13 @@ Credits to DarkenMoon, Sparten, Macko, Crush and Polynite, also Samicc and Fisch
 
 Note: This took too much time and money, why did I do this 😭
 
-Another Note: I probably won't go over Season 7 as there are manifests for them and big storage costs.
+Another Note: Season 7+ is possible, just would take more time than the ones I have right now, I will probably do on request.
+
+Network map:
+![image](https://user-images.githubusercontent.com/59186634/226167783-ec5a77db-2969-491c-806f-ed9b02899f7a.png)
+
+
+
 
 # Downloads
 
@@ -60,13 +66,13 @@ Another Note: I probably won't go over Season 7 as there are manifests for them 
 # Season 5
 | Build                         | Date           	 |  Engine Version	    |		    Link             |
 | ----------------------------- | ---------------------- | ------------------------ | ------------------------------ |
-| 5.00-CL-4204761  	  	| 12-07-18       	 | UE4.21-4204761	    |		Not Uploaded (Yet)|
-| 5.00-CL-4214610	  	| 12-07-18       	 | UE4.21-4214610	    |		Not Uploaded (Yet)|
-| 5.10-CL-4240749         	| 25-07-18       	 | UE4.21-4240749	    |		Not Uploaded (Yet)|
-| 5.21-CL-4288479         	| 15-08-18       	 | UE4.21-4288479 	    |           Not Uploaded (Yet)|
-| 5.30-CL-4305896         	| 23-08-18       	 | UE4.21-4305896	    |           Not Uploaded (Yet)|
-| 5.40-CL-4352937         	| 05-09-18       	 | UE4.21-4352937	    |		Not Uploaded (Yet)|
-| 5.41-CL-4363240         	| 19-09-18       	 | UE4.21-4363240	    |		Not Uploaded (Yet)|
+| 5.00-CL-4204761  	  	| 12-07-18       	 | UE4.21-4204761	    |		https://builds.simplyblk.com/5.00.rar|
+| 5.00-CL-4214610	  	| 12-07-18       	 | UE4.21-4214610	    |		https://builds.simplyblk.com/5.0.1.rar|
+| 5.10-CL-4240749         	| 25-07-18       	 | UE4.21-4240749	    |		https://builds.simplyblk.com/5.10.rar|
+| 5.21-CL-4288479         	| 15-08-18       	 | UE4.21-4288479 	    |           https://builds.simplyblk.com/5.21.rar|
+| 5.30-CL-4305896         	| 23-08-18       	 | UE4.21-4305896	    |           https://builds.simplyblk.com/5.30.rar|
+| 5.40-CL-4352937         	| 05-09-18       	 | UE4.21-4352937	    |		https://builds.simplyblk.com/5.40.rar|
+| 5.41-CL-4363240         	| 19-09-18       	 | UE4.21-4363240	    |		https://builds.simplyblk.com/5.41.rar|
 
 # Season 6
 | Build                         | Date           	 |  Engine Version	    |		    Link             |
