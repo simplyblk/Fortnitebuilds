@@ -90,7 +90,7 @@ Another Note: I probably won't go over Season 7 as there are manifests for them 
 | Build                         | Date           	 |  Engine Version	    |		    Link             |
 | ----------------------------- | ---------------------- | ------------------------ | ------------------------------ |
 | 7.00-CL-4629139         	| 06-12-18       	 | UE4.22-4629139	    |		https://builds.simplyblk.com/7.00.rar|
-| 7.10-CL-4667333	       	| 18-12-18             	 | UE4.22-4667333	    |		https://builds.simplyblk.com/07.10.rar|
+| 7.10-CL-4667333	       	| 18-12-18             	 | UE4.22-4667333	    |		https://builds.simplyblk.com/7.10.rar|
 | 7.20-CL-4727874	       	| 22-01-19             	 | UE4.22-4727874	    |		https://builds.simplyblk.com/7.20.rar|
 | 7.30-CL-4834550         	| 29-01-19       	 | UE4.22-4834550	    |		----- MANIFEST ----- |
 | 7.40-CL-5046157         	| 13-02-19       	 | UE4.22-5046157	    |		----- MANIFEST ----- |
