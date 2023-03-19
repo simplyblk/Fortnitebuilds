@@ -1,5 +1,5 @@
 # Fortnite-Builds
-Some Fortnite builds reuploaded by blk#6964. 
+Some Fortnite Builds reuploaded and maintained by blk#6964. 
 Credits to DarkenMoon, Sparten, Macko, Crush and Polynite, also Samicc and Fischsalat for the idea.
 
 Note: This took too much time and money, why did I do this 😭
@@ -44,18 +44,18 @@ Another Note: I probably won't go over Season 7 as there are manifests for them 
 | 3.1-CL-3915963    		| 28-02-18         	 | UE4.20-3915963      	    |   	https://builds.simplyblk.com/3.1.rar|
 | 3.1-CL-3917250	  	| 28-02-18       	 | UE4.20-3917250	    |		https://builds.simplyblk.com/3.1.1.zip |
 | 3.2-CL-3935073	  	| 08-03-18       	 | UE4.20-3935073 	    | 		https://builds.simplyblk.com/3.2.zip|
-| 3.3-CL-3942182                | 15-03-18         | UE4.20-3942182           | reupload soon|
+| 3.3-CL-3942182                | 15-03-18         | UE4.20-3942182           | Couldn't get the build.|
 | 3.5-CL-4008490          	| 11-04-18       	 | UE4.20-4008490	    | 		https://builds.simplyblk.com/3.5.rar|
 
 # Season 4
 | Build                         | Date           	 |  Engine Version	    |		    Link             |
 | ----------------------------- | ---------------------- | ------------------------ | ------------------------------ |
-| 4.0-CL-4039451          	| 02-05-18       	 | UE4.20-4039451	    |		Not Uploaded (Yet)|
-| 4.1-CL-4053532          	| 08-05-18       	 | UE4.20-4053532	    |		Not Uploaded (Yet) |
-| 4.2-CL-4072250          	| 16-05-18	 	 | UE4.20-4072250 	    | 		Not Uploaded (Yet)|
-| 4.4-CL-4117433          	| 11-06-18       	 | UE4.20-4117433  	    |           Not Uploaded (Yet)|
-| 4.4.1-CL-4127312        	| 14-06-18       	 | UE4.20-4127312 	    |		Not Uploaded (Yet)|
-| 4.5-CL-4159770          	| 27-06-18       	 | UE4.20-4159770 	    |		Not Uploaded (Yet)|
+| 4.0-CL-4039451          	| 02-05-18       	 | UE4.20-4039451	    |		https://builds.simplyblk.com/4.0.zip|
+| 4.1-CL-4053532          	| 08-05-18       	 | UE4.20-4053532	    |		https://builds.simplyblk.com/4.1.zip|
+| 4.2-CL-4072250          	| 16-05-18	 	 | UE4.20-4072250 	    | 		https://builds.simplyblk.com/4.2.zip|
+| 4.4-CL-4117433          	| 11-06-18       	 | UE4.20-4117433  	    |           https://builds.simplyblk.com/4.4.rar|
+| 4.4.1-CL-4127312        	| 14-06-18       	 | UE4.20-4127312 	    |		Couldn't get the build.|
+| 4.5-CL-4159770          	| 27-06-18       	 | UE4.20-4159770 	    |		https://builds.simplyblk.com/4.5.rar|
 
 # Season 5
 | Build                         | Date           	 |  Engine Version	    |		    Link             |
