@@ -6,6 +6,8 @@ Note: This took too much time and money, why did I do this 😭
 
 Another Note: Season 7+ is possible, just would take more time than the ones I have right now, I will probably do on request.
 
+Credit: Anyone can post these anywhere, just make sure to give proper credit!
+
 # Network map:
 ![image](https://user-images.githubusercontent.com/59186634/226167783-ec5a77db-2969-491c-806f-ed9b02899f7a.png)
 
