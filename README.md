@@ -1,8 +1,10 @@
 # Fortnite-Builds
-Some Fortnite builds reuploaded by Samicc and Fischsalat. 
-Credits to DarkenMoon, Sparten, Macko, Crush and Polynite.
+Some Fortnite builds reuploaded by blk#6964. 
+Credits to DarkenMoon, Sparten, Macko, Crush and Polynite, also Samicc and Fischsalat for the idea.
 
-Note: Some links are broken, also why did I do this 😭
+Note: This took too much time and money, why did I do this 😭
+
+Another Note: I probably won't go over Season 7 as there are manifests for them and big storage costs.
 
 # Downloads
 
@@ -87,8 +89,8 @@ Note: Some links are broken, also why did I do this 😭
 # Season 7
 | Build                         | Date           	 |  Engine Version	    |		    Link             |
 | ----------------------------- | ---------------------- | ------------------------ | ------------------------------ |
-| 7.00-CL-4629139         	| 06-12-18       	 | UE4.22-4629139	    |		https://builds.simplyblk.com/7.00|
-| 7.10-CL-4667333	       	| 18-12-18             	 | UE4.22-4667333	    |		https://builds.simplyblk.com/07.10|
-| 7.20-CL-4727874	       	| 22-01-19             	 | UE4.22-4727874	    |		https://builds.simplyblk.com/7.20|
+| 7.00-CL-4629139         	| 06-12-18       	 | UE4.22-4629139	    |		https://builds.simplyblk.com/7.00.rar|
+| 7.10-CL-4667333	       	| 18-12-18             	 | UE4.22-4667333	    |		https://builds.simplyblk.com/07.10.rar|
+| 7.20-CL-4727874	       	| 22-01-19             	 | UE4.22-4727874	    |		https://builds.simplyblk.com/7.20.rar|
 | 7.30-CL-4834550         	| 29-01-19       	 | UE4.22-4834550	    |		----- MANIFEST ----- |
 | 7.40-CL-5046157         	| 13-02-19       	 | UE4.22-5046157	    |		----- MANIFEST ----- |
