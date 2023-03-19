@@ -40,10 +40,10 @@ Another Note: I probably won't go over Season 7 as there are manifests for them 
 # Season 3
 | Build                         | Date           	 |  Engine Version	    |		    Link             |
 | ----------------------------- | ---------------------- | ------------------------ | ------------------------------ |
-| 3.0-CL-3901517	 	| 21-02-18	   	 | UE4.20-3901517	    |		Not Uploaded (Yet) |
-| 3.1-CL-3915963    		| 28-02-18         	 | UE4.20-3915963      	    |   	Not Uploaded (Yet)|
-| 3.1-CL-3917250	  	| 28-02-18       	 | UE4.20-3917250	    |		Not Uploaded (Yet) |
-| 3.2-CL-3935073	  	| 08-03-18       	 | UE4.20-3935073 	    | 		Not Uploaded (Yet)|
+| 3.0-CL-3901517	 	| 21-02-18	   	 | UE4.20-3901517	    |		Couldn't get the build.|
+| 3.1-CL-3915963    		| 28-02-18         	 | UE4.20-3915963      	    |   	https://builds.simplyblk.com/3.1.rar|
+| 3.1-CL-3917250	  	| 28-02-18       	 | UE4.20-3917250	    |		https://builds.simplyblk.com/3.1.1.zip |
+| 3.2-CL-3935073	  	| 08-03-18       	 | UE4.20-3935073 	    | 		https://builds.simplyblk.com/3.2.zip|
 | 3.3-CL-3942182                | 15-03-18         | UE4.20-3942182           | reupload soon|
 | 3.5-CL-4008490          	| 11-04-18       	 | UE4.20-4008490	    | 		https://builds.simplyblk.com/3.5.rar|
 
