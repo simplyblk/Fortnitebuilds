@@ -41,14 +41,14 @@ Another Note: Season 7+ is possible, just would take more time than the ones I h
 | 2.3.0-CL-3847564        	| 25-01-18	  	 | UE4.19-3847564	    |		----- MANIFEST ----- |
 | 2.4.0-CL-3858292        	| 01-02-18	  	 | UE4.19-3858292	    |		https://builds.simplyblk.com/2.4.0.zip|
 | 2.4.2-CL-3870737        	| 07-02-18	  	 | UE4.19-3870737	    |		https://builds.simplyblk.com/2.4.2.zip|
-| 2.5.0-CL-3889387        	| 13-02-18       	 | UE4.20-3889387	    |		----- MANIFEST ----- |
+| 2.5.0-CL-3889387        	| 13-02-18       	 | UE4.20-3889387	    |	        https://builds.simplyblk.com/2.5.0.rar|
 
 # Season 3
 | Build                         | Date           	 |  Engine Version	    |		    Link             |
 | ----------------------------- | ---------------------- | ------------------------ | ------------------------------ |
 | 3.0-CL-3901517	 	| 21-02-18	   	 | UE4.20-3901517	    |		Couldn't get the build.|
 | 3.1-CL-3915963    		| 28-02-18         	 | UE4.20-3915963      	    |   	https://builds.simplyblk.com/3.1.rar|
-| 3.1-CL-3917250	  	| 28-02-18       	 | UE4.20-3917250	    |		https://builds.simplyblk.com/3.1.1.zip |
+| 3.1-CL-3917250	  	| 28-02-18       	 | UE4.20-3917250	    |		https://builds.simplyblk.com/3.1.1.zip|
 | 3.2-CL-3935073	  	| 08-03-18       	 | UE4.20-3935073 	    | 		https://builds.simplyblk.com/3.2.zip|
 | 3.3-CL-3942182                | 15-03-18               | UE4.20-3942182           | Couldn't get the build.|
 | 3.5-CL-4008490          	| 11-04-18       	 | UE4.20-4008490	    | 		https://builds.simplyblk.com/3.5.rar|
@@ -98,5 +98,10 @@ Another Note: Season 7+ is possible, just would take more time than the ones I h
 | 7.00-CL-4629139         	| 06-12-18       	 | UE4.22-4629139	    |		https://builds.simplyblk.com/7.00.rar|
 | 7.10-CL-4667333	       	| 18-12-18             	 | UE4.22-4667333	    |		https://builds.simplyblk.com/7.10.rar|
 | 7.20-CL-4727874	       	| 22-01-19             	 | UE4.22-4727874	    |		https://builds.simplyblk.com/7.20.rar|
-| 7.30-CL-4834550         	| 29-01-19       	 | UE4.22-4834550	    |		----- MANIFEST ----- |
-| 7.40-CL-5046157         	| 13-02-19       	 | UE4.22-5046157	    |		----- MANIFEST ----- |
+| 7.30-CL-4834550         	| 29-01-19       	 | UE4.22-4834550	    |		https://builds.simplyblk.com/7.30.rar|
+| 7.40-CL-5046157         	| 13-02-19       	 | UE4.22-5046157	    |		https://builds.simplyblk.com/7.40.rar|
+
+# Season 8
+| Build                         | Date           	 |  Engine Version	    |		    Link             |
+| ----------------------------- | ---------------------- | ------------------------ | ------------------------------ |
+| 8.51-CL-6165369         	| 02-05-19       	 | UE4.23            	    |		https://builds.simplyblk.com/8.51.rar|
