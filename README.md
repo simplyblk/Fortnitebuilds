@@ -107,3 +107,13 @@ Credit: Anyone can post these anywhere, just make sure to give proper credit!
 | Build                         | Date           	 |  Engine Version	    |		    Link             |
 | ----------------------------- | ---------------------- | ------------------------ | ------------------------------ |
 | 8.51-CL-6165369         	| 02-05-19       	 | UE4.23            	    |		https://builds.simplyblk.com/8.51.rar|
+
+# Season 9
+| Build                         | Date           	 |  Engine Version	    |		    Link             |
+| ----------------------------- | ---------------------- | ------------------------ | ------------------------------ |
+| 9.10-CL-6639283	        | 05-19-19       	 | UE4.23            	    |		https://builds.simplyblk.com/9.10.rar|
+
+# Season X
+| Build                         | Date           	 |  Engine Version	    |		    Link             |
+| ----------------------------- | ---------------------- | ------------------------ | ------------------------------ |
+| 10.40-CL-9380822         	| 09-25-19       	 | UE4.23            	    |		https://builds.simplyblk.com/10.40.rar|
