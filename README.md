@@ -74,7 +74,7 @@ Credit: Anyone can post these anywhere, just make sure to give proper credit!
 | 5.21-CL-4288479         	| 15-08-18       	 | UE4.21-4288479 	    |           https://builds.simplyblk.com/5.21.rar|
 | 5.30-CL-4305896         	| 23-08-18       	 | UE4.21-4305896	    |           https://builds.simplyblk.com/5.30.rar|
 | 5.40-CL-4352937         	| 05-09-18       	 | UE4.21-4352937	    |		https://builds.simplyblk.com/5.40.rar|
-| 5.41-CL-4363240         	| 19-09-18       	 | UE4.21-4363240	    |		https://builds.simplyblk.com/5.41.rar|
+| 5.41-CL-4363240         	| 19-09-18       	 | UE4.21-4363240	    |		https://builds.simplyblk.com/5.41.zip|
 
 # Season 6
 | Build                         | Date           	 |  Engine Version	    |		    Link             |
