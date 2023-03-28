@@ -48,7 +48,7 @@ Credit: Anyone can post these anywhere, just make sure to give proper credit!
 # Season 3
 | Build                         | Date           	 |  Engine Version	    |		    Link             |
 | ----------------------------- | ---------------------- | ------------------------ | ------------------------------ |
-| 3.0-CL-3901517	 	| 21-02-18	   	 | UE4.20-3901517	    |		Couldn't get the build.|
+| 3.0-CL-3901517	 	| 21-02-18	   	 | UE4.20-3901517	    |		https://builds.simplyblk.com/3.0.rar|
 | 3.1-CL-3915963    		| 28-02-18         	 | UE4.20-3915963      	    |   	https://builds.simplyblk.com/3.1.rar|
 | 3.1-CL-3917250	  	| 28-02-18       	 | UE4.20-3917250	    |		https://builds.simplyblk.com/3.1.1.zip|
 | 3.2-CL-3935073	  	| 08-03-18       	 | UE4.20-3935073 	    | 		https://builds.simplyblk.com/3.2.zip|
