@@ -117,3 +117,8 @@ Credit: Anyone can post these anywhere, just make sure to give proper credit!
 | Build                         | Date           	 |  Engine Version	    |		    Link             |
 | ----------------------------- | ---------------------- | ------------------------ | ------------------------------ |
 | 10.40-CL-9380822         	| 09-25-19       	 | UE4.23            	    |		https://builds.simplyblk.com/10.40.rar|
+
+# Season 12
+| Build                         | Date           	 |  Engine Version	    |		    Link             |
+| ----------------------------- | ---------------------- | ------------------------ | ------------------------------ |
+| 12.41-CL-12905909	        | 04-21-20       	 | UE4.25            	    |		https://builds.simplyblk.com/12.41.rar|
