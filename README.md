@@ -103,11 +103,6 @@ Credit: Anyone can post these anywhere, just make sure to give proper credit!
 | 7.30-CL-4834550         	| 29-01-19       	 | UE4.22-4834550	    |		https://builds.simplyblk.com/7.30.rar|
 | 7.40-CL-5046157         	| 13-02-19       	 | UE4.22-5046157	    |		https://builds.simplyblk.com/7.40.rar|
 
-# Season 8
-| Build                         | Date           	 |  Engine Version	    |		    Link             |
-| ----------------------------- | ---------------------- | ------------------------ | ------------------------------ |
-| 8.51-CL-6165369         	| 02-05-19       	 | UE4.23            	    |		https://builds.simplyblk.com/8.51.rar|
-
 # Season 9
 | Build                         | Date           	 |  Engine Version	    |		    Link             |
 | ----------------------------- | ---------------------- | ------------------------ | ------------------------------ |
