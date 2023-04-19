@@ -86,8 +86,8 @@ Credit: Anyone can post these anywhere, just make sure to give proper credit!
 | 6.02-CL-4442095        	| 10-10-18     		 | UE4.21-4442095    	    | 		https://builds.simplyblk.com/6.02.rar|
 | 6.02-CL-4461277        	| 10-10-18       	 | UE4.21-4461277	    |           https://builds.simplyblk.com/6.2.1.rar|
 | 6.10-CL-4464155       	| 16-10-18      	 | UE4.21-4464155   	    | 		https://builds.simplyblk.com/6.10.rar|
-| 6.10-CL-4476098       	| 16-10-18      	 | UE4.21-4476098   	    | 		https://builds.simplyblk.com/6.10.1|
-| 6.10-CL-4480234   	  	| 16-10-18       	 | UE4.21-4480234	    |		https://builds.simplyblk.com/6.10.2|
+| 6.10-CL-4476098       	| 16-10-18      	 | UE4.21-4476098   	    | 		https://builds.simplyblk.com/6.10.1.rar|
+| 6.10-CL-4480234   	  	| 16-10-18       	 | UE4.21-4480234	    |		https://builds.simplyblk.com/6.10.2.rar|
 | 6.20-CL-4497486          	| 24-10-18         	 | UE4.21-4497486     	    | 		Couldn't get the build.|
 | 6.21-CL-4526925         	| 01-11-18       	 | UE4.21-4526925	    |		https://builds.simplyblk.com/6.21.rar|
 | 6.22-CL-4543176		| 04-11-18		 | UE4.21-4543176	    | 		https://builds.simplyblk.com/6.22.rar|
