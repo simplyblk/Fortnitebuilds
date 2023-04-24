@@ -2,7 +2,7 @@
 Some Fortnite Builds reuploaded and maintained by blk#6964. 
 Credits to DarkenMoon, Sparten, Macko, Crush and Polynite, also Samicc and Fischsalat for the idea.
 
-Note: This took too much time and money, why did I do this 😭
+Note: This has a website now, (Thanks [Crunnie](https://github.com/Crunnie/)), you can find it [here](https://downloads.simplyblk.com/)!
 
 Another Note: Season 7+ is possible, just would take more time than the ones I have right now, I will probably do on request.
 
