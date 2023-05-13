@@ -106,20 +106,20 @@ Downloads are capped at 60 Mb/s (Around 500 MBps)
 # Season 8
 | Build                         | Date           	 |  Engine Version	    |		    Link             |
 | ----------------------------- | ---------------------- | ------------------------ | ------------------------------ |
-| 8.50-CL-6058028	        | 05-19-19       	 | UE4.23            	    |		https://cdn.fnbuilds.services/8.50.rar|
+| 8.50-CL-6058028	        | 25-04-19       	 | UE4.23            	    |		https://cdn.fnbuilds.services/8.50.rar|
 
 
 # Season 9
 | Build                         | Date           	 |  Engine Version	    |		    Link             |
 | ----------------------------- | ---------------------- | ------------------------ | ------------------------------ |
-| 9.10-CL-6639283	        | 05-19-19       	 | UE4.23            	    |		https://cdn.fnbuilds.services/9.10.rar|
+| 9.10-CL-6639283	        | 19-05-19       	 | UE4.23            	    |		https://cdn.fnbuilds.services/9.10.rar|
 
 # Season X
 | Build                         | Date           	 |  Engine Version	    |		    Link             |
 | ----------------------------- | ---------------------- | ------------------------ | ------------------------------ |
-| 10.40-CL-9380822         	| 09-25-19       	 | UE4.23            	    |		https://cdn.fnbuilds.services/10.40.rar|
+| 10.40-CL-9380822         	| 25-09-19       	 | UE4.23            	    |		https://cdn.fnbuilds.services/10.40.rar|
 
 # Season 12
 | Build                         | Date           	 |  Engine Version	    |		    Link             |
 | ----------------------------- | ---------------------- | ------------------------ | ------------------------------ |
-| 12.41-CL-12905909	        | 04-21-20       	 | UE4.25            	    |		https://cdn.fnbuilds.services/12.41.rar|
+| 12.41-CL-12905909	        | 21-04-20       	 | UE4.25            	    |		https://cdn.fnbuilds.services/12.41.rar|
