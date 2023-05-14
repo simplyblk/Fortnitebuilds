@@ -132,9 +132,9 @@ Downloads are capped at 60 Mb/s (Around 500 MBps)
 # Season 15
 | Build                         | Date           	 |  Engine Version	    |		    Link             |
 | ----------------------------- | ---------------------- | ------------------------ | ------------------------------ |
-| 15.30-15341163	        | 02-02-21       	 | UE4.26            	    |		https://cdn.fnbuilds.services/15.30.rar|
+| 15.30-CL-15341163	        | 02-02-21       	 | UE4.26            	    |		https://cdn.fnbuilds.services/15.30.rar|
 
 # Season 16
 | Build                         | Date           	 |  Engine Version	    |		    Link             |
 | ----------------------------- | ---------------------- | ------------------------ | ------------------------------ |
-| 16.40-16218553     | 11-05-21     	 | UE4.26.1           	    |		https://cdn.fnbuilds.services/16.40.rar|
+| 16.40-CL-16218553     | 11-05-21     	 | UE4.26.1           	    |		https://cdn.fnbuilds.services/16.40.rar|
