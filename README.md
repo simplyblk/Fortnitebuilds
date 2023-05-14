@@ -2,7 +2,7 @@
 Some Fortnite Builds reuploaded and maintained by blk#6964. 
 Credits to DarkenMoon, Sparten, Macko, Crush and Polynite, also Samicc and Fischsalat for the idea.
 
-This has a website (thanks [Crunnie](https://github.com/Crunnie)), you can find it [here.](https://fnbuilds.services.com/)
+This has a website (thanks [Crunnie](https://github.com/Crunnie)), you can find it [here.](https://fnbuilds.services/)
 
 Uploads note: Season 7+ is possible, just would take more time than the ones I have right now, I will probably do on request.
 
@@ -129,7 +129,12 @@ Downloads are capped at 60 Mb/s (Around 500 MBps)
 | ----------------------------- | ---------------------- | ------------------------ | ------------------------------ |
 | 14.40-CL-14550713	        | 21-10-20       	 | UE4.26            	    |		https://cdn.fnbuilds.services/14.40.rar|
 
+# Season 15
+| Build                         | Date           	 |  Engine Version	    |		    Link             |
+| ----------------------------- | ---------------------- | ------------------------ | ------------------------------ |
+| 15.30-15341163	        | 02-02-21       	 | UE4.26            	    |		https://cdn.fnbuilds.services/15.30.rar|
+
 # Season 16
 | Build                         | Date           	 |  Engine Version	    |		    Link             |
 | ----------------------------- | ---------------------- | ------------------------ | ------------------------------ |
-| 16.40     | 21-04-20       	 | UE4.26.1           	    |		https://cdn.fnbuilds.services/16.40.rar|
+| 16.40-16218553     | 11-05-21     	 | UE4.26.1           	    |		https://cdn.fnbuilds.services/16.40.rar|
