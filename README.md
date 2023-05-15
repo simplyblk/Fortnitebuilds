@@ -19,9 +19,9 @@ Downloads are capped at 60 Mb/s (Around 500 Mbps)
 # Pre-BattleRoyale
 | Build                  	 | Date          	 | Engine Version	    |		    Download links             |
 | ------------------------------ | --------------------- | ------------------------ | ------------------------------ |
-| OT6.5-CL-2870186        	 |  28-02-16	   	 | UE4.12-2870186	    |		Not Uploaded (Yet)|
-| Cert-CL-3532353                | 20-07-17              | UE4.16-3532353           | Not Uploaded (Yet) |
-| 1.2-CL-3541083         	 |  21-07-17      	 | UE4.16-3541083	    |		Not Uploaded (Yet)|
+| OT6.5-CL-2870186        	 |  28-02-16	   	 | UE4.12-2870186	    |		N/A |
+| Cert-CL-3532353                | 20-07-17              | UE4.16-3532353           | N/A |
+| 1.2-CL-3541083         	 |  21-07-17      	 | UE4.16-3541083	    |		N/A |
 
 # Season 0 & 1
 | Build                   	| Date          	 | Engine Version	    |		    Download links             |
@@ -40,7 +40,7 @@ Downloads are capped at 60 Mb/s (Around 500 Mbps)
 | 1.11-CL-3807424         	| 14-12-17		 | UE4.19-3807424	    |		https://cdn.fnbuilds.services/1.11.zip|
 | 2.1.0-CL-3825894        	| 09-01-18	  	 | UE4.19-3825894	    |		https://cdn.fnbuilds.services/2.1.0.zip|
 | 2.2.0-CL-3841827        	| 18-01-18	  	 | UE4.19-3841827	    |		https://cdn.fnbuilds.services/2.2.0.rar|
-| 2.3.0-CL-3847564        	| 25-01-18	  	 | UE4.19-3847564	    |		----- MANIFEST ----- |
+| 2.3.0-CL-3847564        	| 25-01-18	  	 | UE4.19-3847564	    |		N/A |
 | 2.4.0-CL-3858292        	| 01-02-18	  	 | UE4.19-3858292	    |		https://cdn.fnbuilds.services/2.4.0.zip|
 | 2.4.2-CL-3870737        	| 07-02-18	  	 | UE4.19-3870737	    |		https://cdn.fnbuilds.services/2.4.2.zip|
 | 2.5.0-CL-3889387        	| 13-02-18       	 | UE4.20-3889387	    |	        https://cdn.fnbuilds.services/2.5.0.rar|
@@ -62,7 +62,7 @@ Downloads are capped at 60 Mb/s (Around 500 Mbps)
 | 4.1-CL-4053532          	| 08-05-18       	 | UE4.20-4053532	    |		https://cdn.fnbuilds.services/4.1.zip|
 | 4.2-CL-4072250          	| 16-05-18	 	 | UE4.20-4072250 	    | 		https://cdn.fnbuilds.services/4.2.zip|
 | 4.4-CL-4117433          	| 11-06-18       	 | UE4.20-4117433  	    |           https://cdn.fnbuilds.services/4.4.rar|
-| 4.4.1-CL-4127312        	| 14-06-18       	 | UE4.20-4127312 	    |		Couldn't get the build.|
+| 4.4.1-CL-4127312        	| 14-06-18       	 | UE4.20-4127312 	    |		N/A |
 | 4.5-CL-4159770          	| 27-06-18       	 | UE4.20-4159770 	    |		https://cdn.fnbuilds.services/4.5.rar|
 
 # Season 5
@@ -80,7 +80,7 @@ Downloads are capped at 60 Mb/s (Around 500 Mbps)
 | Build                         | Date           	 |  Engine Version	    |		    Download links             |
 | ----------------------------- | ---------------------- | ------------------------ | ------------------------------ |
 | 6.00-CL-4395664         	| 27-09-18       	 | UE4.21-4395664	    |		https://cdn.fnbuilds.services/6.00.rar|
-| 6.00-CL-4402180      		| 27-09-18         	 | UE4.21-4402180    	    |		Couldn't get the build.|
+| 6.00-CL-4402180      		| 27-09-18         	 | UE4.21-4402180    	    |		N/A |
 | 6.01-CL-4417689         	| 03-10-18       	 | UE4.21-4417689	    |           https://cdn.fnbuilds.services/6.01.rar|
 | 6.01-CL-4424678		| 03-10-18		 | UE4.21-4424678	    | 		https://cdn.fnbuilds.services/6.1.1.rar|
 | 6.02-CL-4442095        	| 10-10-18     		 | UE4.21-4442095    	    | 		https://cdn.fnbuilds.services/6.02.rar|
@@ -88,7 +88,7 @@ Downloads are capped at 60 Mb/s (Around 500 Mbps)
 | 6.10-CL-4464155       	| 16-10-18      	 | UE4.21-4464155   	    | 		https://cdn.fnbuilds.services/6.10.rar|
 | 6.10-CL-4476098       	| 16-10-18      	 | UE4.21-4476098   	    | 		https://cdn.fnbuilds.services/6.10.1.rar|
 | 6.10-CL-4480234   	  	| 16-10-18       	 | UE4.21-4480234	    |		https://cdn.fnbuilds.services/6.10.2.rar|
-| 6.20-CL-4497486          	| 24-10-18         	 | UE4.21-4497486     	    | 		Couldn't get the build.|
+| 6.20-CL-4497486          	| 24-10-18         	 | UE4.21-4497486     	    | 		N/A |
 | 6.21-CL-4526925         	| 01-11-18       	 | UE4.21-4526925	    |		https://cdn.fnbuilds.services/6.21.rar|
 | 6.22-CL-4543176		| 04-11-18		 | UE4.21-4543176	    | 		https://cdn.fnbuilds.services/6.22.rar|
 | 6.30-CL-4573096         	| 13-11-18       	 | UE4.21-4573096	    |		https://cdn.fnbuilds.services/6.30.rar|
