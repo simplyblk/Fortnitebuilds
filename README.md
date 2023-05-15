@@ -48,7 +48,7 @@ Downloads are capped at 60 Mb/s (Around 500 Mbps)
 # Season 3
 | Build                         | Date           	 |  Engine Version	    |		    Download links             |
 | ----------------------------- | ---------------------- | ------------------------ | ------------------------------ |
-| 3.0-CL-3901517	 	| 21-02-18	   	 | UE4.20-3901517	    |		https://cdn.fnbuilds.services/3.0.rar|
+| 3.0-CL-3901517	 	| 21-02-18	   	 | UE4.20-3901517	    |	N/a |
 | 3.1-CL-3915963    		| 28-02-18         	 | UE4.20-3915963      	    |   	https://cdn.fnbuilds.services/3.1.rar|
 | 3.1-CL-3917250	  	| 28-02-18       	 | UE4.20-3917250	    |		https://cdn.fnbuilds.services/3.1.1.zip|
 | 3.2-CL-3935073	  	| 08-03-18       	 | UE4.20-3935073 	    | 		https://cdn.fnbuilds.services/3.2.zip|
@@ -113,7 +113,7 @@ Downloads are capped at 60 Mb/s (Around 500 Mbps)
 | 8.20-CL-NA	                | 27-03-19        	 | UE4.23            	    |		N/A|
 | 8.30-CL-NA	                | 10-04-19         	 | UE4.23            	    |		N/A|
 | 8.40-CL-NA	                | 17-04-19         	 | UE4.23            	    |		N/A|
-| 8.50-CL-6058028	        | 25-04-19       	 | UE4.23            	    |		https://cdn.fnbuilds.services/8.50.rar|
+| 8.50-CL-6058028	        | 25-04-19       	 | UE4.23            	    |		https://cdn.fnbuilds.services/8.50.zip|
 | 8.51-CL-NA	                | 02-05-19         	 | UE4.23            	    |		N/A|
 
 # Season 9
