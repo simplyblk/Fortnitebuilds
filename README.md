@@ -159,9 +159,9 @@ Downloads are capped at 60 Mb/s (Around 500 Mbps)
 | 14.10-CL-NA	                | 10-10-20         	 | UE4.26            	    |		N/A|
 | 14.20-CL-NA	                | 23-10-20         	 | UE4.26            	    |		N/A|
 | 14.30-CL-NA	                | 13-10-20         	 | UE4.26            	    |		N/A|
-| 14.40-CL-14550713	        | 21-10-20       	 | UE4.26            	    |		https://cdn.fnbuilds.services/14.40.rar|
+| 14.40-CL-14550713	          | 21-10-20         	 | UE4.26            	    |		https://cdn.fnbuilds.services/14.40.rar|
 | 14.50-CL-NA	                | 03-11-20         	 | UE4.26            	    |		N/A|
-| 14.60-CL-NA	                | 18-11-20         	 | UE4.26            	    |		N/A|
+| 14.60-CL-14786821           | 18-11-20        	  | UE4.26            	    |		https://cdn.fnbuilds.services/14.60.rar|
 
 # Season 15
 | Build                         | Date           	 |  Engine Version	    |		    Download links             |
@@ -170,7 +170,7 @@ Downloads are capped at 60 Mb/s (Around 500 Mbps)
 | 15.10-CL-NA	                | 15-12-20         	 | UE4.26            	    |		N/A|
 | 15.20-CL-NA	                | 13-01-21         	 | UE4.26            	    |		N/A|
 | 15.21-CL-NA	                | 20-01-22         	 | UE4.26            	    |		N/A|
-| 15.30-CL-15341163	        | 02-02-21       	 | UE4.26            	    |		https://cdn.fnbuilds.services/15.30.rar|
+| 15.30-CL-15341163	          | 02-02-21         	 | UE4.26            	    |		https://cdn.fnbuilds.services/15.30.rar|
 | 15.40-CL-NA	                | 16-02-21         	 | UE4.26            	    |		N/A|
 | 15.50-CL-NA	                | 02-03-21         	 | UE4.26            	    |		N/A|
 
