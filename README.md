@@ -1,6 +1,7 @@
 # Fortnite Builds
 Some Fortnite Builds reuploaded and maintained by blk#6964. 
-Credits to DarkenMoon, Sparten, Macko, Crush and Polynite, also Samicc and Fischsalat for the idea.
+
+Build Providers: Everyone at [notsamiccs's Fortnite Builds](https://github.com/notsamicc/Fortnite-Builds), and [ProHenis](https://github.com/RealProHenis)
 
 This has a website (thanks [Crunnie](https://github.com/Crunnie)), you can find it [here.](https://fnbuilds.services/)
 
