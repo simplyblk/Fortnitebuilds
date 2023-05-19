@@ -139,7 +139,7 @@ Downloads are capped at 60 Mb/s (Around 500 Mbps)
 | 10.31-CL-N/A	                | 18-09-19         	 | UE4.23            	    |		N/A|
 | 10.40-CL-9380822           	| 25-09-19         	 | UE4.23            	    |		https://cdn.fnbuilds.services/10.40.rar|
 
-# Season X/10
+# Season 11
 | Build                         | Date           	 |  Engine Version	    |		    Download links             |
 | ----------------------------- | ---------------------- | ------------------------ | ------------------------------ |
 | 11.31-CL-N/A	             | N/A         	     | N/A          |	 https://cdn.fnbuilds.services/11.31.rar|
