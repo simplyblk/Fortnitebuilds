@@ -115,7 +115,7 @@ Downloads are capped at 60 Mb/s (Around 500 Mbps)
 | 8.30-CL-NA	                | 10-04-19         	 | UE4.23            	    |		N/A|
 | 8.40-CL-NA	                | 17-04-19         	 | UE4.23            	    |		N/A|
 | 8.50-CL-6058028	        | 25-04-19       	 | UE4.23            	    |		https://cdn.fnbuilds.services/8.50.zip|
-| 8.51-CL-NA	                | 02-05-19         	 | UE4.23            	    |		N/A|
+| 8.51-CL-NA	                | 02-05-19         	 | UE4.23            	    |		https://cdn.fnbuilds.services/8.51.rar|
 
 # Season 9
 | Build                         | Date           	 |  Engine Version	    |		    Download links             |
@@ -184,3 +184,8 @@ Downloads are capped at 60 Mb/s (Around 500 Mbps)
 | 16.30-CL-NA	                | 27-04-21        	 | UE4.26            	    |		N/A|
 | 16.40-CL-16218553             | 11-05-21        	 | UE4.26.1           	                    |		https://cdn.fnbuilds.services/16.40.rar|
 | 16.50-CL-NA	                | 03-06-22         	 | UE4.26.1            	    |		N/A|
+
+# Season 19
+| Build                         | Date           	 |  Engine Version	    |		    Download links             |
+| ----------------------------- | ---------------------- | ------------------------ | ------------------------------ |
+| 19.10-CL-NA	                | N/A         	 | N/A           	    |	 https://cdn.fnbuilds.services/19.10.rar|
