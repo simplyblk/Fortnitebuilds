@@ -149,14 +149,14 @@ Downloads are capped at 60 Mb/s (Around 500 Mbps)
 | ----------------------------- | ---------------------- | ------------------------ | ------------------------------ |
 | 12.00-CL-N/A	                | 20-02-20         	 | UE4.24            	    |		https://cdn.fnbuilds.services/12.00.rar|
 | 12.10-CL-N/A	                | 03-03-20         	 | UE4.24           	    |		N/A|
-| 12.20-CL-N/A	                | 17-03-20       	 | UE4.24            	    |		N/A|
+| 12.20-CL-N/A	                | 17-03-20       	 | UE4.24            	    |		https://cdn.fnbuilds.services/12.21.zip|
 | 12.21-CL-N/A	                | 24-03-20         	 | UE4.25            	    |		N/A|
 | 12.30-CL-N/A	                | 31-03-20         	 | UE4.25            	    |		N/A|
 | 12.40-CL-N/A	                | 15-04-20         	 | UE4.25            	    |		N/A|
 | 12.41-CL-12905909	          | 21-04-20       	 | UE4.25            	    |		https://cdn.fnbuilds.services/12.41.rar|
-| 12.50-CL-N/A	                | 29-04-20         	 | UE4.25            	    |		N/A|
+| 12.50-CL-N/A	                | 29-04-20         	 | UE4.25            	    |		https://cdn.fnbuilds.services/12.50.zip|
 | 12.60-CL-N/A	                | 20-05-20         	 | UE4.25            	    |		N/A|
-| 12.61-CL-N/A	                | 26-05-20         	 | UE4.25            	    |		N/A|
+| 12.61-CL-N/A	                | 26-05-20         	 | UE4.25            	    |		https://cdn.fnbuilds.services/12.61.zip|
 
 # Season 14
 | Build                         | Date           	 |  Engine Version	    |		    Download links             |
