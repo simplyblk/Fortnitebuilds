@@ -158,6 +158,11 @@ Downloads are capped at 60 Mb/s (Around 500 Mbps)
 | 12.60-CL-N/A	                | 20-05-20         	 | UE4.25            	    |		N/A|
 | 12.61-CL-N/A	                | 26-05-20         	 | UE4.25            	    |		https://cdn.fnbuilds.services/12.61.zip|
 
+# Season 13
+| Build                         | Date           	 |  Engine Version	    |		    Download links             |
+| ----------------------------- | ---------------------- | ------------------------ | ------------------------------ |
+| 13.00-CL-N/A	                | 27-09-20         	 | UE4.26            	    |		https://cdn.fnbuilds.services/13.00.rar|
+
 # Season 14
 | Build                         | Date           	 |  Engine Version	    |		    Download links             |
 | ----------------------------- | ---------------------- | ------------------------ | ------------------------------ |
