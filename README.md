@@ -113,7 +113,7 @@ Downloads are capped at 60 Mb/s (Around 500 Mbps)
 | 8.11-CL-N/A	                | 20-03-19         	 | UE4.23            	    |		N/A|
 | 8.20-CL-N/A	                | 27-03-19        	 | UE4.23            	    |		N/A|
 | 8.30-CL-N/A	                | 10-04-19         	 | UE4.23            	    |		N/A|
-| 8.40-CL-N/A	                | 17-04-19         	 | UE4.23            	    |		N/A|
+| 8.40-CL-N/A	                | 17-04-19         	 | UE4.23            	    |		https://cdn.fnbuilds.services/8.40.zip|
 | 8.50-CL-6058028	        | 25-04-19       	 | UE4.23            	    |		https://cdn.fnbuilds.services/8.50.zip|
 | 8.51-CL-N/A	                | 02-05-19         	 | UE4.23            	    |		https://cdn.fnbuilds.services/8.51.rar|
 
@@ -149,8 +149,8 @@ Downloads are capped at 60 Mb/s (Around 500 Mbps)
 | ----------------------------- | ---------------------- | ------------------------ | ------------------------------ |
 | 12.00-CL-N/A	                | 20-02-20         	 | UE4.24            	    |		https://cdn.fnbuilds.services/12.00.rar|
 | 12.10-CL-N/A	                | 03-03-20         	 | UE4.24           	    |		N/A|
-| 12.20-CL-N/A	                | 17-03-20       	 | UE4.24            	    |		https://cdn.fnbuilds.services/12.21.zip|
-| 12.21-CL-N/A	                | 24-03-20         	 | UE4.25            	    |		N/A|
+| 12.20-CL-N/A	                | 17-03-20       	 | UE4.24            	    |		N/A|
+| 12.21-CL-N/A	                | 24-03-20         	 | UE4.25            	    |		https://cdn.fnbuilds.services/12.21.zip|
 | 12.30-CL-N/A	                | 31-03-20         	 | UE4.25            	    |		N/A|
 | 12.40-CL-N/A	                | 15-04-20         	 | UE4.25            	    |		N/A|
 | 12.41-CL-12905909	          | 21-04-20       	 | UE4.25            	    |		https://cdn.fnbuilds.services/12.41.rar|
