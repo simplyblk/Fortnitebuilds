@@ -12,7 +12,7 @@ Credit: Anyone can post these anywhere, just make sure to give proper credit!
 # Network map:
 ![image](https://user-images.githubusercontent.com/59186634/226167783-ec5a77db-2969-491c-806f-ed9b02899f7a.png)
 
-Downloads are capped at 60 Mb/s (Around 500 Mbps)
+Downloads are capped at 60 MB/s (Around 500 Mbps)
 
 
 # Downloads
