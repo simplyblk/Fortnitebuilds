@@ -3,6 +3,8 @@ Some Fortnite Builds reuploaded and maintained by blk#6964.
 
 Build Providers: Everyone at [notsamiccs's Fortnite Builds](https://github.com/notsamicc/Fortnite-Builds), and [ProHenis](https://github.com/RealProHenis)
 
+Want to help me cover storage and egress costs? Donate [here.](https://www.paypal.com/donate/?business=LVENCHYXAS7NG&no_recurring=0&item_name=Help+me+cover+storage+and+egress+costs+to+keep+providing+over+300+terabytes+of+data+every+two+weeks+for+free.&currency_code=USD)
+
 This has a website (thanks [Crunnie](https://github.com/Crunnie)), you can find it [here.](https://fnbuilds.services/)
 
 If you wish to contribute anything that isn't listed here, DM @blk#6964 or Email me @ FortniteBuildsArchive@gmail.com
