@@ -197,7 +197,32 @@ Downloads are capped at 60 Mb/s (Around 500 Mbps)
 | 16.40-CL-16218553             | 11-05-21        	 | UE4.26.1           	                    |		https://cdn.fnbuilds.services/16.40.rar|
 | 16.50-CL-N/A	                | 03-06-22         	 | UE4.26.1            	    |		N/A|
 
+# Season 17
+| Build                         | Date           	 |  Engine Version	    |		    Download links             |
+| ----------------------------- | ---------------------- | ------------------------ | ------------------------------ |
+| 17.00-CL-N/A	                | 16-03-21         	 | UE4.26            	    |		N/A|
+| 17.10-CL-N/A	                | 30-03-21         	 | UE4.26            	    |		N/A|
+| 17.20-CL-N/A	                | 13-04-21         	 | UE4.26            	    |		N/A|
+| 17.30-CL-N/A	                | 27-04-21        	 | UE4.26            	    |		https://drive.google.com/file/d/1rcV41CxNEmjIP5XOeqNvt7MTqKeznUul/view?usp=sharing|
+| 17.40-CL-N/A             | 11-05-21        	 | UE4.26.1           	                    |		N/A|
+| 17.50-CL-N/A	                | 03-06-22         	 | UE4.26.1            	    |		https://drive.google.com/file/d/1lqyVPzhL4HdqT2yqWHkJtnw1CmWbZYQV/view?usp=sharing|
+
+# Season 18
+| Build                         | Date           	 |  Engine Version	    |		    Download links             |
+| ----------------------------- | ---------------------- | ------------------------ | ------------------------------ |
+| 18.00-CL-N/A	                | 16-03-21         	 | UE4.26            	    |		N/A|
+| 18.10-CL-N/A	                | 30-03-21         	 | UE4.26            	    |		N/A|
+| 18.20-CL-N/A	                | 13-04-21         	 | UE4.26            	    |		N/A|
+| 18.21-CL-N/A	                | 27-04-21        	 | UE4.26            	    |		N/A|
+| 18.30-CL-N/A             | 11-05-21        	 | UE4.26.1           	                    |		N/A|
+| 18.40-CL-N/A	                | 03-06-22         	 | UE4.26.1            	    |		https://drive.google.com/file/d/1SPkZck-FtrNLpLplXvFXW_8-FB3GaoZI/view?usp=sharing|
+
 # Season 19
 | Build                         | Date           	 |  Engine Version	    |		    Download links             |
 | ----------------------------- | ---------------------- | ------------------------ | ------------------------------ |
 | 19.10-CL-N/A	                | N/A         	 | N/A           	    |	 https://cdn.fnbuilds.services/19.10.rar|
+
+# Season 20
+| Build                         | Date           	 |  Engine Version	    |		    Download links             |
+| ----------------------------- | ---------------------- | ------------------------ | ------------------------------ |
+| 20.40-CL-N/A	                | N/A         	 | N/A           	    |	 https://drive.google.com/file/d/1FUs0iOGbKV6KTQCDJbnDDXiZzw-3WzGm/view?usp=sharing|
