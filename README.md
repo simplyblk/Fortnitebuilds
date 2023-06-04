@@ -7,6 +7,8 @@ Want to help me cover storage and egress costs? Donate [here.](https://www.paypa
 
 This has a website (thanks [Crunnie](https://github.com/Crunnie)), you can find it [here.](https://fnbuilds.services/)
 
+We remade EasyInstaller!!!! Find it [here!](https://github.com/simplyblk/EasyInstallerV2)
+
 If you wish to contribute anything that isn't listed here, DM @blk#6964 or Email me @ FortniteBuildsArchive@gmail.com
 
 Credit: Anyone can post these anywhere, just make sure to give proper credit!
