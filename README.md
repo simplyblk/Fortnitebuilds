@@ -5,7 +5,7 @@ Build Providers: Everyone at [notsamiccs's Fortnite Builds](https://github.com/n
 
 Want to help me cover storage and egress costs? Donate [here.](https://www.paypal.com/donate/?business=LVENCHYXAS7NG&no_recurring=0&item_name=Help+me+cover+storage+and+egress+costs+to+keep+providing+over+300+terabytes+of+data+every+two+weeks+for+free.&currency_code=USD)
 
-This has a website (thanks [Crunnie](https://github.com/Crunnie)), you can find it [here.](https://fnbuilds.services/)
+This has a website (thanks [Crunnie](https://github.com/Crunnie)), you can find it [here.](https://paypal.me/blksservers?country.x=US&locale.x=en_US)
 
 We remade EasyInstaller!!!! Find it [here!](https://github.com/simplyblk/EasyInstallerV2)
 
