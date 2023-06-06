@@ -1,23 +1,15 @@
 # Fortnite Builds
-Some Fortnite Builds reuploaded and maintained by blk#6964. 
+The largest Fortnite Builds Archive maintained by blk#6964. 
 
-Build Providers: Everyone at [notsamiccs's Fortnite Builds](https://github.com/notsamicc/Fortnite-Builds), and [ProHenis](https://github.com/RealProHenis)
+## Want to help me cover storage and egress costs? Donate [here!](https://paypal.me/blksservers?country.x=US&locale.x=en_US)
 
-Want to help me cover storage and egress costs? Donate [here.](https://www.paypal.com/donate/?business=LVENCHYXAS7NG&no_recurring=0&item_name=Help+me+cover+storage+and+egress+costs+to+keep+providing+over+300+terabytes+of+data+every+two+weeks+for+free.&currency_code=USD)
+## Usage & Other information.
 
-This has a website (thanks [Crunnie](https://github.com/Crunnie)), you can find it [here.](https://paypal.me/blksservers?country.x=US&locale.x=en_US)
-
-We remade EasyInstaller!!!! Find it [here!](https://github.com/simplyblk/EasyInstallerV2)
+Credits: Everyone at [notsamiccs's Fortnite Builds](https://github.com/notsamicc/Fortnite-Builds), and [Crunnie.](https://github.com/Crunnie)
 
 If you wish to contribute anything that isn't listed here, DM @blk#6964 or Email me @ FortniteBuildsArchive@gmail.com
 
-Credit: Anyone can post these anywhere, just make sure to give proper credit!
-
-# Network map:
-![image](https://user-images.githubusercontent.com/59186634/226167783-ec5a77db-2969-491c-806f-ed9b02899f7a.png)
-
-Downloads are capped at 60 Mb/s (Around 500 Mbps)
-
+Downloads for Archive files (.zip & .rar) are capped at 70 Mb/s (650 Mbps), if you wish to have faster and more efficent downloads, check out [EasyInstallerV2](https://github.com/simplyblk/EasyInstallerV2)
 
 # Downloads
 
