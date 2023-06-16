@@ -107,7 +107,7 @@ Downloads for Archive files (.zip & .rar) are capped at 70 Mb/s (650 Mbps), if y
 | 8.01-CL-N/A	                | 06-03-19         	 | UE4.23            	    |		N/A|
 | 8.10-CL-N/A	                | 12-03-19         	 | UE4.23            	    |		N/A|
 | 8.11-CL-N/A	                | 20-03-19         	 | UE4.23            	    |		N/A|
-| 8.20-CL-N/A	                | 27-03-19        	 | UE4.23            	    |		https://cdn.fnbuilds.services/8.20.zip|
+| 8.20-CL-N/A	                | 27-03-19        	 | UE4.23            	    |		https://cdn.fnbuilds.services/8.20.rar|
 | 8.30-CL-N/A	                | 10-04-19         	 | UE4.23            	    |		N/A|
 | 8.40-CL-N/A	                | 17-04-19         	 | UE4.23            	    |		https://cdn.fnbuilds.services/8.40.zip|
 | 8.50-CL-6058028	        | 25-04-19       	 | UE4.23            	    |		https://cdn.fnbuilds.services/8.50.zip|
