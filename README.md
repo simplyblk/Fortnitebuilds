@@ -1,5 +1,5 @@
 # Fortnite Builds
-The largest Fortnite Builds Archive maintained by blk#6964. 
+The largest Fortnite Builds Archive maintained by simplyblk. 
 
 ## Want to help me cover storage and egress costs? Donate [here!](https://paypal.me/blksservers?country.x=US&locale.x=en_US)
 
@@ -7,9 +7,11 @@ The largest Fortnite Builds Archive maintained by blk#6964.
 
 Credits: Everyone at [notsamiccs's Fortnite Builds](https://github.com/notsamicc/Fortnite-Builds), and [Crunnie.](https://github.com/Crunnie)
 
-If you wish to contribute anything that isn't listed here, DM @blk#6964 or Email me @ FortniteBuildsArchive@gmail.com
+If you wish to contribute anything that isn't listed here, DM simplyblk or Email me @ FortniteBuildsArchive@gmail.com
 
-Downloads for Archive files (.zip & .rar) are capped at 70 Mb/s (650 Mbps), if you wish to have faster and more efficent downloads, check out [EasyInstallerV2](https://github.com/simplyblk/EasyInstallerV2)
+Downloads for Archive files (.zip & .rar) are capped at 70 Mb/s (650 Mbps), if you wish to have faster and more efficient downloads, check out [EasyInstallerV2](https://github.com/simplyblk/EasyInstallerV2)
+
+If you decide to use this for a project, you must provide credit of this GitHub repo.
 
 # Downloads
 
