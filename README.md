@@ -110,7 +110,7 @@ If you decide to use this for a project, you must provide credit of this GitHub 
 | 8.10-CL-N/A	                | 12-03-19         	 | UE4.23            	    |		N/A|
 | 8.11-CL-N/A	                | 20-03-19         	 | UE4.23            	    |		N/A|
 | 8.20-CL-N/A	                | 27-03-19        	 | UE4.23            	    |		https://cdn.fnbuilds.services/8.20.rar|
-| 8.30-CL-N/A	                | 10-04-19         	 | UE4.23            	    |		N/A|
+| 8.30-CL-N/A	                | 10-04-19         	 | UE4.23            	    |		https://cdn.fnbuilds.services/8.30.rar|
 | 8.40-CL-N/A	                | 17-04-19         	 | UE4.23            	    |		https://cdn.fnbuilds.services/8.40.zip|
 | 8.50-CL-6058028	        | 25-04-19       	 | UE4.23            	    |		https://cdn.fnbuilds.services/8.50.zip|
 | 8.51-CL-N/A	                | 02-05-19         	 | UE4.23            	    |		https://cdn.fnbuilds.services/8.51.rar|
