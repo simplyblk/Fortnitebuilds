@@ -13,6 +13,8 @@ Downloads for Archive files (.zip & .rar) are capped at 70 Mb/s (650 Mbps), if y
 
 If you decide to use this for a project, you must provide credit of this GitHub repo.
 
+Fortnite Switch Archive: https://github.com/simplyblk/FortniteSwitchBuilds
+
 # Downloads
 
 # Pre-BattleRoyale
