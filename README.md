@@ -20,7 +20,7 @@ Fortnite Switch Archive: https://github.com/simplyblk/FortniteSwitchBuilds
 # Pre-BattleRoyale
 | Build                  	 | Date          	 | Engine Version	    |		    Download links             |
 | ------------------------------ | --------------------- | ------------------------ | ------------------------------ |
-| OT6.5-CL-2870186        	 |  28-02-16	   	 | UE4.12-2870186	    |		N/A |
+| OT6.5-CL-2870186        	 |  28-02-16	   	 | UE4.12-2870186	    |		https://cdn.fnbuilds.services/OT0.6.5.zip |
 | Cert-CL-3532353                | 20-07-17              | UE4.16-3532353           | N/A |
 | 1.2-CL-3541083         	 |  21-07-17      	 | UE4.16-3541083	    |		N/A |
 
@@ -153,7 +153,7 @@ Fortnite Switch Archive: https://github.com/simplyblk/FortniteSwitchBuilds
 | 12.21-CL-N/A	                | 24-03-20         	 | UE4.25            	    |		https://cdn.fnbuilds.services/12.21.zip|
 | 12.30-CL-N/A	                | 31-03-20         	 | UE4.25            	    |		N/A|
 | 12.40-CL-N/A	                | 15-04-20         	 | UE4.25            	    |		N/A|
-| 12.41-CL-12905909	          | 21-04-20       	 | UE4.25            	    |		https://cdn.fnbuilds.services/12.41.rar|
+| 12.41-CL-12905909	          | 21-04-20       	 | UE4.25            	    |		https://cdn.fnbuilds.services/Fortnite%2012.41.zip|
 | 12.50-CL-N/A	                | 29-04-20         	 | UE4.25            	    |		https://cdn.fnbuilds.services/12.50.zip|
 | 12.60-CL-N/A	                | 20-05-20         	 | UE4.25            	    |		N/A|
 | 12.61-CL-N/A	                | 26-05-20         	 | UE4.25            	    |		https://cdn.fnbuilds.services/12.61.zip|
