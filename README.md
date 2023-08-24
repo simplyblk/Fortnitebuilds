@@ -166,7 +166,7 @@ Fortnite Switch Archive: https://github.com/simplyblk/FortniteSwitchBuilds
 # Season 14
 | Build                         | Date           	 |  Engine Version	    |		    Download links             |
 | ----------------------------- | ---------------------- | ------------------------ | ------------------------------ |
-| 14.00-CL-N/A	                | 27-09-20         	 | UE4.26            	    |		N/A|
+| 14.00-CL-N/A	                | 27-09-20         	 | UE4.26            	    |		https://cdn.fnbuilds.services/14.00.rar|
 | 14.10-CL-N/A	                | 10-10-20         	 | UE4.26            	    |		N/A|
 | 14.20-CL-N/A	                | 23-10-20         	 | UE4.26            	    |		N/A|
 | 14.30-CL-N/A	                | 13-10-20         	 | UE4.26            	    |		N/A|
