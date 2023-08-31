@@ -15,6 +15,8 @@ If you decide to use this for a project, you must provide credit of this GitHub 
 
 Fortnite Switch Archive: https://github.com/simplyblk/FortniteSwitchBuilds
 
+Proud Ookla Speedtest.net sponser, search FNBuilds.Services @ https://www.speedtest.net/ to conduct a speedtest :).
+
 # Downloads
 
 # Pre-BattleRoyale
