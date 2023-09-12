@@ -77,7 +77,7 @@ Proud Ookla Speedtest.net sponser, search FNBuilds.Services @ https://www.speedt
 | 5.21-CL-4288479         	| 15-08-18       	 | UE4.21-4288479 	    |           https://cdn.fnbuilds.services/5.21.rar|
 | 5.30-CL-4305896         	| 23-08-18       	 | UE4.21-4305896	    |           https://cdn.fnbuilds.services/5.30.rar|
 | 5.40-CL-4352937         	| 05-09-18       	 | UE4.21-4352937	    |		https://cdn.fnbuilds.services/5.40.rar|
-| 5.41-CL-4363240         	| 19-09-18       	 | UE4.21-4363240	    |		https://cdn.fnbuilds.services/5.41.zip|
+| 5.41-CL-4363240         	| 19-09-18       	 | UE4.21-4363240	    |		N/A|
 
 # Season 6
 | Build                         | Date           	 |  Engine Version	    |		    Download links             |
@@ -185,7 +185,7 @@ Proud Ookla Speedtest.net sponser, search FNBuilds.Services @ https://www.speedt
 | 15.21-CL-N/A	                | 20-01-22         	 | UE4.26            	    |		N/A|
 | 15.30-CL-15341163	          | 02-02-21         	 | UE4.26            	    |		https://cdn.fnbuilds.services/15.30.rar|
 | 15.40-CL-N/A	                | 16-02-21         	 | UE4.26            	    |		N/A|
-| 15.50-CL-N/A	                | 02-03-21         	 | UE4.26            	    |		https://cdn.fnbuilds.services/15.50.rar|
+| 15.50-CL-N/A	                | 02-03-21         	 | UE4.26            	    |		N/A|
 
 # Season 16
 | Build                         | Date           	 |  Engine Version	    |		    Download links             |
