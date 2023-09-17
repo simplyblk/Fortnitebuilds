@@ -7,7 +7,7 @@ The largest Fortnite Builds Archive maintained by simplyblk.
 
 Credits: Everyone at [notsamiccs's Fortnite Builds](https://github.com/notsamicc/Fortnite-Builds), and [Crunnie.](https://github.com/Crunnie)
 
-If you wish to contribute anything that isn't listed here, DM simplyblk or Email me @ FortniteBuildsArchive@gmail.com
+If you wish to contribute anything that isn't listed here, DM simplyblk or Email me @ support@fnbuilds.services
 
 Downloads for Archive files (.zip & .rar) are capped at 70 Mb/s (650 Mbps), if you wish to have faster and more efficient downloads, check out [EasyInstallerV2](https://github.com/simplyblk/EasyInstallerV2)
 
@@ -103,7 +103,7 @@ Proud Ookla Speedtest.net sponser, search FNBuilds.Services @ https://www.speedt
 | 7.00-CL-4629139         	| 06-12-18       	 | UE4.22-4629139	    |		https://cdn.fnbuilds.services/7.00.rar|
 | 7.10-CL-4667333	       	| 18-12-18             	 | UE4.22-4667333	    |		https://cdn.fnbuilds.services/7.10.rar|
 | 7.20-CL-4727874	       	| 22-01-19             	 | UE4.22-4727874	    |		https://cdn.fnbuilds.services/7.20.rar|
-| 7.30-CL-4834550         	| 29-01-19       	 | UE4.22-4834550	    |		https://cdn.fnbuilds.services/7.30.rar|
+| 7.30-CL-4834550         	| 29-01-19       	 | UE4.22-4834550	    |		https://cdn.fnbuilds.services/7.30.zip|
 | 7.40-CL-5046157         	| 13-02-19       	 | UE4.22-5046157	    |		https://cdn.fnbuilds.services/7.40.rar|
 
 # Season 8
