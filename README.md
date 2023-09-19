@@ -15,7 +15,7 @@ If you decide to use this for a project, you must provide credit of this GitHub 
 
 Fortnite Switch Archive: https://github.com/simplyblk/FortniteSwitchBuilds
 
-Proud Ookla Speedtest.net sponser, search FNBuilds.Services @ https://www.speedtest.net/ to conduct a speedtest :).
+My Discord server: https://discord.gg/D9jVGQpBf2 (Easiest way for you to contact me).
 
 # Downloads
 
@@ -57,6 +57,7 @@ Proud Ookla Speedtest.net sponser, search FNBuilds.Services @ https://www.speedt
 | 3.2-CL-3935073	  	| 08-03-18       	 | UE4.20-3935073 	    | 		https://cdn.fnbuilds.services/3.2.zip|
 | 3.3-CL-3942182                | 15-03-18               | UE4.20-3942182           | https://cdn.fnbuilds.services/3.3.rar|
 | 3.5-CL-4008490          	| 11-04-18       	 | UE4.20-4008490	    | 		https://cdn.fnbuilds.services/3.5.rar|
+| 3.6-CL-4019403          	| 24-04-18       	 | UE4.20-4019403	    | 		https://cdn.fnbuilds.services/3.6.zip|
 
 # Season 4
 | Build                         | Date           	 |  Engine Version	    |		    Download links             |
