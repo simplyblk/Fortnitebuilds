@@ -110,7 +110,7 @@ My Discord server: https://discord.gg/D9jVGQpBf2 (Easiest way for you to contact
 # Season 8
 | Build                         | Date           	 |  Engine Version	    |		    Download links             |
 | ----------------------------- | ---------------------- | ------------------------ | ------------------------------ |
-| 8.00-CL-N/A	                | 28-02-19         	 | UE4.23            	    |		N/A|
+| 8.00-CL-5203069	              | 28-02-19         	 | UE4.22            	    |		https://cdn.fnbuilds.services/8.00.zip|
 | 8.01-CL-N/A	                | 06-03-19         	 | UE4.23            	    |		N/A|
 | 8.10-CL-N/A	                | 12-03-19         	 | UE4.23            	    |		N/A|
 | 8.11-CL-N/A	                | 20-03-19         	 | UE4.23            	    |		N/A|
@@ -123,29 +123,30 @@ My Discord server: https://discord.gg/D9jVGQpBf2 (Easiest way for you to contact
 # Season 9
 | Build                         | Date           	 |  Engine Version	    |		    Download links             |
 | ----------------------------- | ---------------------- | ------------------------ | ------------------------------ |
-| 9.00-CL-6337466	                | 09-05-19        	 | UE4.23            	    |		https://cdn.fnbuilds.services/9.00.zip|
-| 9.01-CL-N/A	                | 15-05-19        	 | UE4.23            	    |		N/A|
-| 9.10-CL-6639283	        | 19-05-19       	 | UE4.23            	    |		https://cdn.fnbuilds.services/9.10.rar|
-| 9.20-CL-N/A	                | 06-06-19         	 | UE4.23            	    |		N/A|
-| 9.21-CL-N/A	                | 12-06-19         	 | UE4.23            	    |		N/A|
-| 9.30-CL-N/A	                | 09-07-19         	 | UE4.23            	    |		N/A|
-| 9.40-CL-N/A	                | 17-07-19         	 | UE4.23            	    |		N/A|
-| 9.41-CL-7609292	                | 23-07-19         	 | UE4.23            	    |		https://cdn.fnbuilds.services/9.41.rar|
+| 9.00-CL-6337466	              | 09-05-19        	  | UE4.23            	    |		https://cdn.fnbuilds.services/9.00.zip|
+| 9.01-CL-6428087	              | 15-05-19        	  | UE4.23            	    |		https://cdn.fnbuilds.services/9.01.zip|
+| 9.10-CL-6639283	              | 19-05-19       	   | UE4.23            	    |		https://cdn.fnbuilds.services/9.10.rar|
+| 9.20-CL-N/A	                  | 06-06-19         	 | UE4.23            	    |		N/A|
+| 9.21-CL-6922310	              | 12-06-19         	 | UE4.23            	    |		https://cdn.fnbuilds.services/9.21.zip|
+| 9.30-CL-7095426	              | 09-07-19         	 | UE4.23            	    |		https://cdn.fnbuilds.services/9.30.zip|
+| 9.40-CL-N/A	                  | 17-07-19         	 | UE4.23            	    |		N/A|
+| 9.41-CL-7609292	              | 23-07-19         	 | UE4.23            	    |		https://cdn.fnbuilds.services/9.41.rar|
 
 # Season X/10
 | Build                         | Date           	 |  Engine Version	    |		    Download links             |
 | ----------------------------- | ---------------------- | ------------------------ | ------------------------------ |
-| 10.00-CL-7704164	             | 01-08-19         	     | UE4.23           |	 https://cdn.fnbuilds.services/10.00.zip|
-| 10.10-CL-N/A	                | 10-08-19         	 | UE4.23            	    |		N/A|
-| 10.20-CL-N/A	                | 27-08-19         	 | UE4.23            	    |		N/A|
-| 10.30-CL-N/A	                | 11-09-19         	 | UE4.23            	    |		N/A|
-| 10.31-CL-N/A	                | 18-09-19         	 | UE4.23            	    |		N/A|
-| 10.40-CL-9380822           	| 25-09-19         	 | UE4.23            	    |		https://cdn.fnbuilds.services/10.40.rar|
+| 10.00-CL-7704164	             | 01-08-19         	     | UE4.23            |	https://cdn.fnbuilds.services/10.00.zip|
+| 10.10-CL-7955722	             | 10-08-19         	     | UE4.23            |	https://cdn.fnbuilds.services/10.10.zip|
+| 10.20-CL-8456527	             | 27-08-19         	     | UE4.23            |	https://cdn.fnbuilds.services/10.20.zip|
+| 10.30-CL-N/A	                 | 11-09-19         	     | UE4.23            |		N/A|
+| 10.31-CL-8723043	             | 18-09-19         	     | UE4.23            |	https://cdn.fnbuilds.services/10.31.zip|
+| 10.40-CL-9380822           	  | 25-09-19         	     | UE4.23            |		https://cdn.fnbuilds.services/10.40.rar|
 
 # Season 11
-| Build                         | Date           	 |  Engine Version	    |		    Download links             |
-| ----------------------------- | ---------------------- | ------------------------ | ------------------------------ |
-| 11.31-CL-N/A	             | N/A         	     | N/A          |	 https://cdn.fnbuilds.services/11.31.rar|
+| Build                         | Date           	 |  Engine Version	    |		    Download links                     |
+| ----------------------------- | ---------------- | ------------------- | --------------------------------------- |
+| 11.00-CL-9603448	             | 15-10-19         | UE4.24              |	 https://cdn.fnbuilds.services/11.00.zip|
+| 11.31-CL-N/A	                 | N/A         	    | N/A                 |	 https://cdn.fnbuilds.services/11.31.rar|
  
 # Season 12
 | Build                         | Date           	 |  Engine Version	    |		    Download links             |
