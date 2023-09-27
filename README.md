@@ -129,7 +129,7 @@ My Discord server: https://discord.gg/D9jVGQpBf2 (Easiest way for you to contact
 | 9.20-CL-N/A	                  | 06-06-19         	 | UE4.23            	    |		N/A|
 | 9.21-CL-6922310	              | 12-06-19         	 | UE4.23            	    |		https://cdn.fnbuilds.services/9.21.zip|
 | 9.30-CL-7095426	              | 09-07-19         	 | UE4.23            	    |		https://cdn.fnbuilds.services/9.30.zip|
-| 9.40-CL-N/A	                  | 17-07-19         	 | UE4.23            	    |		N/A|
+| 9.40-CL-7315705               | 17-07-19         	 | UE4.23            	    |		https://cdn.fnbuilds.services/9.40.zip|
 | 9.41-CL-7609292	              | 23-07-19         	 | UE4.23            	    |		https://cdn.fnbuilds.services/9.41.rar|
 
 # Season X/10
