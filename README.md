@@ -166,6 +166,7 @@ My Discord server: https://discord.gg/D9jVGQpBf2 (Easiest way for you to contact
 | Build                         | Date           	 |  Engine Version	    |		    Download links             |
 | ----------------------------- | ---------------------- | ------------------------ | ------------------------------ |
 | 13.00-CL-N/A	                | 27-09-20         	 | UE4.26            	    |		https://cdn.fnbuilds.services/13.00.rar|
+| 13.40-CL-14113327	                | 27-09-20         	 | UE4.26            	    |	https://cdn.fnbuilds.services/13.40.zip|
 
 # Season 14
 | Build                         | Date           	 |  Engine Version	    |		    Download links             |
