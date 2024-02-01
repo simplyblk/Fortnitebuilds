@@ -22,20 +22,20 @@ My Discord server: https://discord.gg/D9jVGQpBf2 (Easiest way for you to contact
 # Pre-BattleRoyale
 | Build                  	 | Date          	 | Engine Version	    | Event |		    Download links             |
 | ------------------------------ | --------------------- | ------------------------ | ----- | ------------------------------ |
-| OT6.5-CL-2870186        	 |  28-02-16	   	 | UE4.12-2870186	     | N/A 		https://cdn.fnbuilds.services/OT0.6.5.zip |
+| OT6.5-CL-2870186        	 |  28-02-16	   	 | UE4.12-2870186	     | N/A |		https://cdn.fnbuilds.services/OT0.6.5.zip |
 | Cert-CL-3532353                | 20-07-17              | UE4.16-3532353  | N/A          | N/A |
 | 1.2-CL-3541083         	 |  21-07-17      	 | UE4.16-3541083	    | N/A |		N/A |
 
 # Season 0 & 1
-| Build                   	| Date          	 | Engine Version	    |		    Download links             |
-| ----------------------------- | ---------------------- | ------------------------ | ------------------------------ |
-| 1.7.2-CL-3700114        	| 17-10-17      	 | UE4.16-3700114	    |	        https://cdn.fnbuilds.services/1.7.2.zip|
-| 1.8-CL-3724489          	| 25-10-17       	 | UE4.16-3724489	    |		https://cdn.fnbuilds.services/1.8.rar|
-| 1.8.1-CL-3729133              | 02-11-17               | UE4.16-3729133           | https://cdn.fnbuilds.services/1.8.1.rar|
-| 1.8.2-CL-3741772        	| 08-11-17      	 | UE4.16-3741772	    |		https://cdn.fnbuilds.services/1.8.2.rar|
-| 1.9-CL-3757339          	| 14-11-17       	 | UE4.16-3757339	    |		https://cdn.fnbuilds.services/1.9.rar|
-| 1.9.1-CL-3775276        	| 29-11-17       	 | UE4.16-3775276	    |		https://cdn.fnbuilds.services/1.9.1.rar|
-| 1.10-CL-3790078	  	| 06-12-17	   	 | UE4.19-3790078	    |		https://cdn.fnbuilds.services/1.10.rar|
+| Build                   	| Date          	 | Engine Version	 | Event   |		    Download links             |
+| ----------------------------- | ---------------------- | ------------------------ | ----- | ------------------------------ |
+| 1.7.2-CL-3700114        	| 17-10-17      	 | UE4.16-3700114	 | N/A   |	        https://cdn.fnbuilds.services/1.7.2.zip|
+| 1.8-CL-3724489          	| 25-10-17       	 | UE4.16-3724489	 | N/A   |		https://cdn.fnbuilds.services/1.8.rar|
+| 1.8.1-CL-3729133              | 02-11-17               | UE4.16-3729133    | N/A       | https://cdn.fnbuilds.services/1.8.1.rar|
+| 1.8.2-CL-3741772        	| 08-11-17      	 | UE4.16-3741772	  | N/A  |		https://cdn.fnbuilds.services/1.8.2.rar|
+| 1.9-CL-3757339          	| 14-11-17       	 | UE4.16-3757339	 | N/A   |		https://cdn.fnbuilds.services/1.9.rar|
+| 1.9.1-CL-3775276        	| 29-11-17       	 | UE4.16-3775276	  | N/A  |		https://cdn.fnbuilds.services/1.9.1.rar|
+| 1.10-CL-3790078	  	| 06-12-17	   	 | UE4.19-3790078	 | N/A   |		https://cdn.fnbuilds.services/1.10.rar|
  
 # Season 2
 | Build                         | Date           	 |  Engine Version	    |		    Download links             |
