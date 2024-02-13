@@ -17,7 +17,7 @@ Fortnite Switch Archive: https://github.com/simplyblk/FortniteSwitchBuilds
 
 My Discord server: https://discord.gg/D9jVGQpBf2 (Easiest way for you to contact me).
 
-# Editors
+#### Editors
 
 Please keep the document nicely formatted!
 
@@ -138,13 +138,13 @@ Please keep the document nicely formatted!
 
 # Season X/10
 | Build                         | Date                 	 |  Engine Version	    | Event |		    Download links             |
-| ----------------------------- | ---------------------- | ---------- | ----- | ------------------------------ |
-| 10.00-CL-7704164	             | 01-08-19         	     | UE4.23     | N/A       | 	https://cdn.fnbuilds.services/10.00.zip|
-| 10.10-CL-7955722	             | 10-08-19         	     | UE4.23     | N/A       |	 https://cdn.fnbuilds.services/10.10.zip|
-| 10.20-CL-8456527	             | 27-08-19         	     | UE4.23     | N/A       |	 https://cdn.fnbuilds.services/10.20.zip|
-| 10.30-CL-N/A	                 | 11-09-19         	     | UE4.23     | N/A       |		N/A|
-| 10.31-CL-8723043	             | 18-09-19         	     | UE4.23     | N/A       | 	https://cdn.fnbuilds.services/10.31.zip|
-| 10.40-CL-9380822           	  | 25-09-19         	     | UE4.23     | N/A       |		https://cdn.fnbuilds.services/10.40.rar|
+| ----------------------------- | ---------------------- | ------------------- | ----- | ------------------------------ |
+| 10.00-CL-7704164	             | 01-08-19         	     | UE4.23              | N/A   | 	https://cdn.fnbuilds.services/10.00.zip|
+| 10.10-CL-7955722	             | 10-08-19         	     | UE4.23              | N/A   |	 https://cdn.fnbuilds.services/10.10.zip|
+| 10.20-CL-8456527	             | 27-08-19         	     | UE4.23              | N/A   |	 https://cdn.fnbuilds.services/10.20.zip|
+| 10.30-CL-N/A	                 | 11-09-19         	     | UE4.23              | N/A   |		N/A|
+| 10.31-CL-8723043	             | 18-09-19         	     | UE4.23              | N/A   | 	https://cdn.fnbuilds.services/10.31.zip|
+| 10.40-CL-9380822           	  | 25-09-19         	     | UE4.23              | N/A   |		https://cdn.fnbuilds.services/10.40.rar|
 
 # Season 11
 | Build                         | Date           	 |  Engine Version	    | Event |		    Download links                     |
