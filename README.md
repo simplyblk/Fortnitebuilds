@@ -17,7 +17,7 @@ Fortnite Switch Archive: https://github.com/simplyblk/FortniteSwitchBuilds
 
 My Discord server: https://discord.gg/D9jVGQpBf2 (Easiest way for you to contact me).
 
-#### Editors
+# Editors
 
 Please keep the document nicely formatted!
 
