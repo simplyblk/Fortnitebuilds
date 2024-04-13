@@ -146,7 +146,7 @@ My Discord server: https://discord.gg/D9jVGQpBf2 (Easiest way for you to contact
 | Build                         | Date           	 |  Engine Version	    |		    Download links                     |
 | ----------------------------- | ---------------- | ------------------- | --------------------------------------- |
 | 11.00-CL-9603448	             | 15-10-19         | UE4.24              |	 https://cdn.fnbuilds.services/11.00.zip|
-| 11.31-CL-N/A	                 | N/A         	    | N/A                 |	 https://cdn.fnbuilds.services/11.31.rar|
+| 11.31-CL-10800459	            | N/A         	    | N/A                 |	 https://cdn.fnbuilds.services/11.31.rar|
  
 # Season 12
 | Build                         | Date           	 |  Engine Version	    |		    Download links             |
@@ -206,7 +206,7 @@ My Discord server: https://discord.gg/D9jVGQpBf2 (Easiest way for you to contact
 | 17.00-CL-N/A	                | 16-03-21         	 | UE4.26            	    |		N/A|
 | 17.10-CL-N/A	                | 30-03-21         	 | UE4.26            	    |		N/A|
 | 17.20-CL-N/A	                | 13-04-21         	 | UE4.26            	    |		N/A|
-| 17.30-CL-N/A	                | 27-04-21        	 | UE4.26            	    |		https://cdn.fnbuilds.services/17.30.zip|
+| 17.30-CL-17004569	           | 27-04-21        	 | UE4.26            	    |		https://cdn.fnbuilds.services/17.30.zip|
 | 17.40-CL-N/A             | 11-05-21        	 | UE4.26.1           	                    |		N/A|
 | 17.50-CL-N/A	                | 03-06-22         	 | UE4.26.1            	    |		https://cdn.fnbuilds.services/17.50.zip|
 
