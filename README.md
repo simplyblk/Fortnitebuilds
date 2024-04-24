@@ -229,3 +229,8 @@ My Discord server: https://discord.gg/D9jVGQpBf2 (Easiest way for you to contact
 | Build                         | Date           	 |  Engine Version	    |		    Download links             |
 | ----------------------------- | ---------------------- | ------------------------ | ------------------------------ |
 | 20.40-CL-N/A	                | N/A         	 | N/A           	    |	 https://cdn.fnbuilds.services/20.40.zip|
+
+# Season 27
+| Build                         | Date           	 |  Engine Version	    |		    Download links             |
+| ----------------------------- | ---------------------- | ------------------------ | ------------------------------ |
+| 27.11-CL-29739262	                | N/A         	 | N/A           	    |	I have the build saved and I can provide you the zip file | 
